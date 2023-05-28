@@ -44,7 +44,7 @@ body {
 
 input {
 	border: none;
-	border-bottom: gray !important;
+	border-bottom: gray;
 	color: gray;
 }
 
